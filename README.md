@@ -2,6 +2,11 @@
 
 ## Overview
 
+## Live URLs
+
+- **Frontend**: https://helpcenter-frontend.vercel.app/
+- **Backend**: https://helpcenterbackend.onrender.com/
+
 This project consists of two main components:
 
 1. **Frontend**: A Next.js application for the user interface.
